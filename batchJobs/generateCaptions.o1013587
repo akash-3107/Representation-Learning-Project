@@ -1,0 +1,52 @@
+### Starting TaskPrologue of job 1013587 on tg096 at Fri 21 Mar 2025 10:00:52 AM CET
+Running on cores 96-127 with governor ondemand
+Fri Mar 21 10:00:52 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 570.124.06             Driver Version: 570.124.06     CUDA Version: 12.8     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-SXM4-40GB          On  |   00000000:C1:00.0 Off |                    0 |
+| N/A   35C    P0             55W /  400W |       1MiB /  40960MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+### Finished TaskPrologue
+
+[07;1;31;43m WARNING: You are over quota on at least one filesystem![0m
+    Path              Used     SoftQ    HardQ    Gracetime  Filecount  FileQuota  FileHardQ  FileGrace    
+[07;1;31;43m!!! /home/hpc          100.2G   104.9G   209.7G    955108*     955K     500K   1,000K  -29536days !!![0m
+True
+1
+NVIDIA A100-SXM4-40GB
+slurmstepd: error: *** JOB 1013587 ON tg096 CANCELLED AT 2025-03-21T10:01:51 ***
+=== JOB_STATISTICS ===
+=== current date     : Fri 21 Mar 2025 10:01:54 AM CET
+= Job-ID             : 1013587 on tinygpu
+= Job-Name           : generateCaptions
+= Job-Command        : /home/hpc/rlvl/rlvl129v/ControlNet/batchJobs/generate_captions.sh
+= Initial workdir    : /home/hpc/rlvl/rlvl129v/ControlNet/batchJobs
+= Queue/Partition    : a100
+= Slurm account      : rlvl with QOS=normal
+= Requested resources:  for 1-00:00:00
+= Elapsed runtime    : 00:01:16
+= Total RAM usage    : 0.3 GiB of requested  GiB (%)   
+= Node list          : tg096
+= Subm/Elig/Start/End: 2025-03-21T09:53:19 / 2025-03-21T09:53:19 / 2025-03-21T10:00:35 / 2025-03-21T10:01:51
+======================
+=== Quota infos ======
+    Path              Used     SoftQ    HardQ    Gracetime  Filec    FileQ    FiHaQ    FileGrace    
+!!! /home/hpc          100.2G   104.9G   209.7G    955111*     955K     500K   1,000K  -29536days !!!
+    /home/woody         70.0G  1000.0G  1500.0G        N/A      87K   5,000K   7,500K        N/A    
+======================
+=== GPU utilization ==
+gpu_name, gpu_bus_id, pid, gpu_utilization [%], mem_utilization [%], max_memory_usage [MiB], time [ms]

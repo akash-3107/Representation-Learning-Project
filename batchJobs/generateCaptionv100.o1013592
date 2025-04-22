@@ -1,0 +1,53 @@
+### Starting TaskPrologue of job 1013592 on tg071 at Fri 21 Mar 2025 10:01:40 AM CET
+Running on cores 4-5,12-13,20-21,28-29 with governor ondemand
+Fri Mar 21 10:01:40 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 570.124.06             Driver Version: 570.124.06     CUDA Version: 12.8     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  Tesla V100-PCIE-32GB           On  |   00000000:86:00.0 Off |                    0 |
+| N/A   35C    P0             27W /  250W |       1MiB /  32768MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+### Finished TaskPrologue
+
+[07;1;31;43m WARNING: You are over quota on at least one filesystem![0m
+    Path              Used     SoftQ    HardQ    Gracetime  Filecount  FileQuota  FileHardQ  FileGrace    
+[07;1;31;43m!!! /home/hpc          100.2G   104.9G   209.7G    955110*     955K     500K   1,000K  -29536days !!![0m
+True
+1
+Tesla V100-PCIE-32GB
+slurmstepd: error: *** JOB 1013592 ON tg071 CANCELLED AT 2025-03-21T10:18:26 ***
+=== JOB_STATISTICS ===
+=== current date     : Fri 21 Mar 2025 10:18:29 AM CET
+= Job-ID             : 1013592 on tinygpu
+= Job-Name           : generateCaptionv100
+= Job-Command        : /home/hpc/rlvl/rlvl129v/ControlNet/batchJobs/generate_captions.sh
+= Initial workdir    : /home/hpc/rlvl/rlvl129v/ControlNet/batchJobs
+= Queue/Partition    : v100
+= Slurm account      : rlvl with QOS=normal
+= Requested resources:  for 1-00:00:00
+= Elapsed runtime    : 00:16:59
+= Total RAM usage    : 0.7 GiB of requested  GiB (%)   
+= Node list          : tg071
+= Subm/Elig/Start/End: 2025-03-21T10:01:26 / 2025-03-21T10:01:26 / 2025-03-21T10:01:27 / 2025-03-21T10:18:26
+======================
+=== Quota infos ======
+    Path              Used     SoftQ    HardQ    Gracetime  Filec    FileQ    FiHaQ    FileGrace    
+!!! /home/hpc          100.2G   104.9G   209.7G    955112*     955K     500K   1,000K  -29536days !!!
+    /home/woody         70.0G  1000.0G  1500.0G        N/A      87K   5,000K   7,500K        N/A    
+======================
+=== GPU utilization ==
+gpu_name, gpu_bus_id, pid, gpu_utilization [%], mem_utilization [%], max_memory_usage [MiB], time [ms]
+Tesla V100-PCIE-32GB, 00000000:86:00.0, 1347870, 23 %, 6 %, 1454 MiB, 979576 ms
