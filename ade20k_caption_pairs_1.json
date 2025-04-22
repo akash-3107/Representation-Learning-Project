@@ -1,0 +1,562 @@
+[
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001152.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001152_seg.png",
+        "prompt": "the tunnel at the london underground"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001155.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001155_seg.png",
+        "prompt": "the floor in the lobby of the building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001118.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001118_seg.png",
+        "prompt": "a large window in a building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001125.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001125_seg.png",
+        "prompt": "a large white building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001099.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001099_seg.png",
+        "prompt": "the interior of the building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001168.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001168_seg.png",
+        "prompt": "the escala of the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001186.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001186_seg.png",
+        "prompt": "a large open space"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00000002.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00000002_seg.png",
+        "prompt": "a large plant in a large room"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001105.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001105_seg.png",
+        "prompt": "a large white tiled floor"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00000001.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00000001_seg.png",
+        "prompt": "a large white ceiling"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001157.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001157_seg.png",
+        "prompt": "a woman standing in a restaurant"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001156.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001156_seg.png",
+        "prompt": "a row of green and white machines"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001109.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001109_seg.png",
+        "prompt": "a long hallway with a sign in the middle"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001107.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001107_seg.png",
+        "prompt": "the interior of the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001144.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001144_seg.png",
+        "prompt": "a man sitting in an airport waiting for his flight"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001123.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001123_seg.png",
+        "prompt": "the main hall of the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001112.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001112_seg.png",
+        "prompt": "a group of people walking through an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001106.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001106_seg.png",
+        "prompt": "airline is the largest airline in the world"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001115.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001115_seg.png",
+        "prompt": "a couple standing in a building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001133.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001133_seg.png",
+        "prompt": "the lobby at the new building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001094.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001094_seg.png",
+        "prompt": "a long line of people"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001104.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001104_seg.png",
+        "prompt": "a store with a large display of food"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00022605.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00022605_seg.png",
+        "prompt": "a crowd of people"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001154.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001154_seg.png",
+        "prompt": "a group of people sitting at tables in a building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001148.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001148_seg.png",
+        "prompt": "the airport terminal at night"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001177.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001177_seg.png",
+        "prompt": "the airport terminal at the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001092.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001092_seg.png",
+        "prompt": "a large white ceiling"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001153.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001153_seg.png",
+        "prompt": "two people walking through an airport terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001110.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001110_seg.png",
+        "prompt": "the lobby of the new terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001130.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001130_seg.png",
+        "prompt": "the lobby at the resort"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001111.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001111_seg.png",
+        "prompt": "silhouettes of people walking through an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001163.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001163_seg.png",
+        "prompt": "a view of the airport from inside the terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001114.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001114_seg.png",
+        "prompt": "passengers at the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001101.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001101_seg.png",
+        "prompt": "a large group of people"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001179.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001179_seg.png",
+        "prompt": "the inside of an airport terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00020219.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00020219_seg.png",
+        "prompt": "a woman standing in a large white building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001122.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001122_seg.png",
+        "prompt": "the inside of the dome"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001102.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001102_seg.png",
+        "prompt": "the interior of an airport terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001193.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001193_seg.png",
+        "prompt": "a large room with people standing around"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001170.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001170_seg.png",
+        "prompt": "people sitting on benches in an airport waiting for their flight"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001158.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001158_seg.png",
+        "prompt": "a group of people walking down a long hallway"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001120.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001120_seg.png",
+        "prompt": "the lobby at the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001137.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001137_seg.png",
+        "prompt": "the terminal at the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001127.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001127_seg.png",
+        "prompt": "a large airport terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001145.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001145_seg.png",
+        "prompt": "a group of people standing in a large room"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00020217.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00020217_seg.png",
+        "prompt": "the museum of natural history"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001181.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001181_seg.png",
+        "prompt": "a couple sitting on a couch in an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001150.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001150_seg.png",
+        "prompt": "the inside of the building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001166.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001166_seg.png",
+        "prompt": "people walk past a building with a large screen displaying the logo"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001126.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001126_seg.png",
+        "prompt": "the subway station in moscow, russia"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001171.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001171_seg.png",
+        "prompt": "a large building with a lot of people inside"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001128.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001128_seg.png",
+        "prompt": "the interior of the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001165.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001165_seg.png",
+        "prompt": "a large black statue"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001139.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001139_seg.png",
+        "prompt": "a large room with a long wall of windows"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001142.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001142_seg.png",
+        "prompt": "a couple of people walking through an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001151.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001151_seg.png",
+        "prompt": "a group of people walking through an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001136.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001136_seg.png",
+        "prompt": "a tunnel with blue lights"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001182.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001182_seg.png",
+        "prompt": "a woman standing in a large white building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001119.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001119_seg.png",
+        "prompt": "a large airport terminal with a lot of people"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001108.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001108_seg.png",
+        "prompt": "the inside of a train station with people walking through it"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001190.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001190_seg.png",
+        "prompt": "a large metal pole"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001117.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001117_seg.png",
+        "prompt": "the tunnel at the museum"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001097.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001097_seg.png",
+        "prompt": "a long blue tunnel"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001124.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001124_seg.png",
+        "prompt": "a long line of people"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001149.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001149_seg.png",
+        "prompt": "a man walking down a long hallway in an office building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001162.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001162_seg.png",
+        "prompt": "the walkway in the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001147.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001147_seg.png",
+        "prompt": "the people are waiting for their luggage at the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001129.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001129_seg.png",
+        "prompt": "the inside of a train station with a large display"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001116.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001116_seg.png",
+        "prompt": "a woman sitting on a bench in an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001093.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001093_seg.png",
+        "prompt": "a subway station with a green and blue light"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001098.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001098_seg.png",
+        "prompt": "a group of people walking through an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00022604.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00022604_seg.png",
+        "prompt": "a plane is on the runway at an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001121.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001121_seg.png",
+        "prompt": "the airport terminal at the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001159.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001159_seg.png",
+        "prompt": "a tunnel with colorful lights"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001172.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001172_seg.png",
+        "prompt": "a long corridor with colorful lights"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001188.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001188_seg.png",
+        "prompt": "the food court in the train station, with the roof of the building in the background"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001191.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001191_seg.png",
+        "prompt": "a long walkway with a sign on it"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001185.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001185_seg.png",
+        "prompt": "a large white ceiling"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001132.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001132_seg.png",
+        "prompt": "a long walkway"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001196.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001196_seg.png",
+        "prompt": "a large airport terminal with a few people waiting"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001195.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001195_seg.png",
+        "prompt": "a woman is walking through an airport terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001180.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001180_seg.png",
+        "prompt": "a large white ceiling"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001184.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001184_seg.png",
+        "prompt": "the lobby of the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001175.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001175_seg.png",
+        "prompt": "a crowd of people waiting in an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001161.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001161_seg.png",
+        "prompt": "a long hallway with a exit sign on the wall"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001187.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001187_seg.png",
+        "prompt": "a long wooden walkway with a glass ceiling"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001164.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001164_seg.png",
+        "prompt": "a long exposure of a train moving through a tunnel"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001167.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001167_seg.png",
+        "prompt": "a large airport with a few people walking around"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001176.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001176_seg.png",
+        "prompt": "a large white ceiling"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001146.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001146_seg.png",
+        "prompt": "people walking through an airport terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001141.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001141_seg.png",
+        "prompt": "a large white floor"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001169.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001169_seg.png",
+        "prompt": "the interior of an airport terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001135.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001135_seg.png",
+        "prompt": "a large white ceiling"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001194.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001194_seg.png",
+        "prompt": "a long hallway with people walking through it"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001103.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001103_seg.png",
+        "prompt": "people walking through an airport terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001192.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001192_seg.png",
+        "prompt": "a group of people waiting at an airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001096.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001096_seg.png",
+        "prompt": "a large lobby with a sign that says business"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001138.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001138_seg.png",
+        "prompt": "the airport lounges are empty and empty"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001178.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001178_seg.png",
+        "prompt": "a large glass dome"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001174.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001174_seg.png",
+        "prompt": "a man standing in front of a green building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001189.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001189_seg.png",
+        "prompt": "a large window"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00020218.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00020218_seg.png",
+        "prompt": "a colorful hallway with a large glass wall"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001140.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001140_seg.png",
+        "prompt": "a person sitting on a bench in front of a building"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001134.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001134_seg.png",
+        "prompt": "people walking through the lobby at the airport"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001143.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001143_seg.png",
+        "prompt": "a large indoor swimming pool"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001183.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001183_seg.png",
+        "prompt": "a group of people standing in a terminal"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001095.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001095_seg.png",
+        "prompt": "a large room with a large sign and a large display"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001160.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001160_seg.png",
+        "prompt": "people are sitting in chairs in a large room"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001113.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001113_seg.png",
+        "prompt": "a woman is standing in an airport with luggage"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001173.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001173_seg.png",
+        "prompt": "a large airport with a few tables and chairs"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001131.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001131_seg.png",
+        "prompt": "a long gray walkway"
+    },
+    {
+        "source": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001100.jpg",
+        "target": "/home/hpc/rlvl/rlvl129v/ControlNet/training/ade20k/ADE20K_2021_17_01/images/ADE/training/transportation/airport_terminal/ADE_train_00001100_seg.png",
+        "prompt": "a large airport with many people walking around"
+    }
+]
