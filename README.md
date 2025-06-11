@@ -1,5 +1,7 @@
 # Representation-Learning-Project
 
+Computer Vision, Generative AI, Deep Learning
+
 Enhanced Multi-Condition ControlNet for Generative Image Synthesis 
 Supervised By : Chair of Image Data Exploration and Analysis
 
